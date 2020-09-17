@@ -7,10 +7,14 @@ para inicar o projeto basta acessar pelo prompt de comando na pasta backend e di
 <table>
     <tr>
         <th>Home</th>
+    </tr>
+    <tr>
+         <td><img src="https://user-images.githubusercontent.com/47863242/93480792-3558f900-f8d4-11ea-83d8-44bacfdb681c.png" heigth="1000" width="1000"></td>
+    </tr>
+    <tr>
         <th>Cadastro</th>
     </tr>
     <tr>
-         <td><img src="https://user-images.githubusercontent.com/47863242/93480792-3558f900-f8d4-11ea-83d8-44bacfdb681c.png" heigth="500" width="500"></td>
-        <td><img src="https://user-images.githubusercontent.com/47863242/93481098-941e7280-f8d4-11ea-8190-8d0b4ec0afa7.png" heigth="500" width="500"></td>
+        <td><img src="https://user-images.githubusercontent.com/47863242/93481098-941e7280-f8d4-11ea-8190-8d0b4ec0afa7.png" heigth="1000" width="1000"></td>
     </tr>
 </table>
