@@ -1,4 +1,4 @@
-# <h1>OrganizzeClone</h1>
+# <h1>CRUD ReactJS</h1>
 <h2>Um aplicativo para estudo desenvolvido com ReactJS</h2>
 
 Um crud desenvolvido em reactJS onde se utiliza um arquivo json como seu banco de dados
